@@ -41,10 +41,10 @@
 [comment]: # (What are the high-level things that you plan to do, and that you will not do? What are your important simplifying assumptions? Try to guard against reasonable misunderstandings that might arise if you did not explain the scope. It can take the form of a paragraph, bullet list, in/out list, and/or UML context diagram.)
 
 | In Scope | Out of Scope |
-| ----- | ----- |
-|       |       |
-|       |       |
-|       |       |
+| -------- | ------------ |
+|          |              |
+|          |              |
+|          |              |
 
 ## Deliverables
 
