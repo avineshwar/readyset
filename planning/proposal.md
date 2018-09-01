@@ -1,14 +1,14 @@
 # Project Proposal
 
-| Project Information    |                              |
-| ---------------------- | ---------------------------- |
-| **Project**            |                              |
-| **Project Timeframe**  |                              |
-| **Summary**            |                              |
-| **Attached Worksheet** | Target Audience and Benefits |
-| **Related Documents**  | Project Plan                 |
-|                        | Resource needs               |
-|                        | Glossary                     |
+| Project Information    |                                                               |
+| ---------------------- | ------------------------------------------------------------- |
+| **Project**            |                                                               |
+| **Project Timeframe**  |                                                               |
+| **Summary**            |                                                               |
+| **Attached Worksheet** | [Target Audience and Benefits](worksheets/target_benefits.md) |
+| **Related Documents**  | [Project Plan](plan.md)                                       |
+|                        | [Resource needs](worksheets/resource_needs.md)                |
+|                        | [Glossary](../continuous_final/glossary.md)                   |
 
 ## Background and Motivation
 
