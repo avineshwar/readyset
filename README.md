@@ -25,7 +25,7 @@
 |                  | [Software Requirements](requirements_specifications/software_requirements.md) | Everyone               |
 |                  | [Design](architecture_design/design.md)                                       | Developers             |
 |                  | [QA Plan](planning/qa_plan.md)                                                | QA                     |
-| **Construction** | [Review Meeting Notes](continuous_final/review_meeting_minutes.md)            | Developers             |
+| **Construction** | [Review Meeting Notes](continuous_final/review_meeting_notes.md)            | Developers             |
 |                  | Operations and Support > Implementation Notes                                 | Support and Operations |
 |                  | Implementation and Testing > User Guide                                       | End Users              |
 |                  | Operations and Support > FAQ / Troubleshooting Guide                          | Support and Operations |
