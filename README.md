@@ -17,7 +17,7 @@
 
 | Phase            | Document                                                                      | Audience               |
 | ---------------- | ----------------------------------------------------------------------------- | ---------------------- |
-|                  | [Project Proposal](planning/proposal.md)                                      | Everyone               |
+|    **Inception**              | [Project Proposal](planning/proposal.md)                                      | Everyone               |
 |                  | [Target Audience and Benefits](planning/target_benefits.md)                   | Everyone               |
 |                  | [Statement of User Needs](requirements_specifications/user_needs.md)          | Everyone               |
 | **Elaboration**  | [Project Plan](planning/plan.md)                                              | Everyone               |
